@@ -116,9 +116,5 @@ Published in *Small Science*
 ## Connect With Me
 
 📫 Email: cotjdud1@gmail.com
-
-🌐 LinkedIn:
-https://www.linkedin.com/in/seoyoung-chae/
-
-💻 GitHub:
-https://github.com/ChaeSeoyoung
+🌐 LinkedIn: https://www.linkedin.com/in/seoyoung-chae/
+💻 GitHub: https://github.com/ChaeSeoyoung
