@@ -64,6 +64,7 @@ AI Engineer and Computer Vision Researcher passionate about building AI systems 
 
 > ## 🚌 LightBus
 >
+> 🏆 Ranked #1 in SeSAC Microsoft AI Engineer Project Competition
 > AI-powered bus guidance service for visually impaired people.
 >
 > **Tech**
@@ -75,12 +76,12 @@ AI Engineer and Computer Vision Researcher passionate about building AI systems 
 > - FastAPI
 > - React
 >
-> 🏆 Ranked #1 in SeSAC Microsoft AI Engineer Project Competition
 
 ---
 
 > ## 🌲 TreeARium
 >
+> 🏆 ICT Smart Device Competition Award Winner
 > Next-generation forest resource measurement solution using AR and AI.
 >
 > **Tech**
@@ -89,7 +90,6 @@ AI Engineer and Computer Vision Researcher passionate about building AI systems 
 > - YOLO
 > - TensorFlow Lite
 >
-> 🏆 ICT Smart Device Competition Award Winner
 
 ---
 
