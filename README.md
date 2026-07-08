@@ -1,122 +1,149 @@
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChaeSeoyoung&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeSeoyoung&layout=compact&theme=tokyonight)
--->
+<div align="center">
 
-# Hello 👋 I'm Seoyoung Chae
+# 🤖 AI RESEARCH DASHBOARD
 
-AI Engineer and Computer Vision Researcher passionate about building AI systems that solve real-world problems.
+### Seoyoung Chae | AI Engineer • Computer Vision Researcher
 
-- 🎓 M.S. in Computer Engineering, Sungkyunkwan University
-- 🔭 Interested in Computer Vision, Generative AI, Azure AI
-- 🌱 Exploring LLM Applications and Azure Cloud Architecture
-- 🏆 1st Place, SeSAC Microsoft AI Engineer Project
-- 📄 Researcher in Vision AI & Diffusion Models
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+for+Real-World+Impact;Computer+Vision+%7C+Generative+AI+%7C+Azure;Researching+Diffusion+Models+and+v>
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ System Status
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### AI / ML
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-### Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Cloud & Database
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### OS & Mobile
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
-
-### Collaboration & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&white)
-![Microsoft Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white)
+```text
+STATUS          : ONLINE
+ROLE            : AI Engineer
+SPECIALIZATION  : Computer Vision
+RESEARCH AREA   : Diffusion Models, VLMs
+CLOUD PLATFORM  : Microsoft Azure
+EDUCATION       : M.S. Computer Engineering
+MISSION         : Building AI Systems That Improve Human Life
+```
 
 ---
 
-## Featured Projects
+## 📊 Telemetry
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.appung&show_icons=true&theme=tokyonight&hide_border=true
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeSeoyoung&layout=compact&theme=true
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readmeyoung&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+-graph.vercel.app/graph?username=ChaeSeoyoung&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 Achievement Unlocks
+
+<div align="center">
+
+https://github-profile-trophy.vercel.app/?username=ChaeSeoyoung&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+- 🥇 1st Place — SeSAC Microsoft AI Engineer Project
+- 🏅 ICT Smart Device Competition Award Winner
+- 📄 Published Researcher (*Small Science*)
+- 🎓 M.S. in Computer Engineering
+
+---
+
+## 🛠 Technology Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,pytorch,tensorflow,opencv,fastapi,django,nodejs,azure,docker,firebase,linux,androidb,vscode
+
+</div>
+
+---
+
+## 🚀 Active Missions
 
 ### 🚌 LightBus
 
-AI-powered bus guidance service for visually impaired people.
+AI-powered bus guidance service for visually impaired passengers
 
-**Tech**
-- Azure AI
-- YOLOv11 / YOLOv12
-- OCR
-- Speech-to-Text
-- Text-to-Speech
-- FastAPI
-- React
-
-🏆 Ranked #1 in SeSAC Microsoft AI Engineer Project Competition
+```text
+Status      : COMPLETED ✅
+Ranking     : 1st Place
+Platform    : Azure AI
+Stack       : YOLO • OCR • STT • TTS • FastAPI • React
+```
 
 ---
 
 ### 🌲 TreeARium
 
-Next-generation forest resource measurement solution using AR and AI.
+AR + AI based forest resource measurement platform
 
-- ARCore
-- Android
-- YOLO
-- TensorFlow Lite
-
-🏆 ICT Smart Device Competition Award Winner
-
----
-
-### 🔬 Research Interests
-
-- Computer Vision
-- Diffusion Models
-- Personalized Image Generation
-- Vision-Language Models
-- Responsible AI
-- Azure AI Services
+```text
+Status      : COMPLETED ✅
+Award       : ICT Smart Device Competition
+Stack       : ARCore • Android • YOLO • TensorFlow Lite
+```
 
 ---
 
-## Publications
+## 🔬 Research Focus
 
-**Machine Learning-Assisted Prediction of State of Health in Lithium Metal Batteries with Electrochemical Impedance Spectroscopy**
+```yaml
+Computer Vision:
+  - Object Detection
+  - Image Understanding
+  - Vision-Language Models
 
-Published in *Small Science* 
+Generative AI:
+  - Diffusion Models
+  - Personalized Image Generation
+
+Cloud & MLOps:
+  - Azure AI Services
+  - AI Deployment Architecture
+
+Responsible AI:
+  - Trustworthy AI Systems
+```
 
 ---
 
-## Connect With Me
+## 📚 Publication
 
-📫 Email: cotjdud1@gmail.com
+### Machine Learning-Assisted Prediction of State of Health in Lithium Metal Batteries with Electrochemical Impedance Spectroscopy
 
-🌐 LinkedIn:
-https://www.linkedin.com/in/seoyoung-chae/
+📖 Published in **Small Science**
 
-💻 GitHub:
-https://github.com/ChaeSeoyoung
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/seoyoung-chae/)
+https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white](mailto:cotjdud1@gmail.com)
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://github.com/ChaeSeoyoung)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 Current Objective
+
+*"Researching next-generation multimodal AI systems powered by Computer Vision and Azure."*
+
+</div>
