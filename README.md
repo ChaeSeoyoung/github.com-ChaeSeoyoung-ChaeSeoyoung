@@ -62,44 +62,45 @@ AI Engineer and Computer Vision Researcher passionate about building AI systems 
 
 ## Featured Projects
 
-### 🚌 LightBus
-
-AI-powered bus guidance service for visually impaired people.
-
-**Tech**
-- Azure AI
-- YOLOv11 / YOLOv12
-- OCR
-- Speech-to-Text
-- Text-to-Speech
-- FastAPI
-- React
-
-🏆 Ranked #1 in SeSAC Microsoft AI Engineer Project Competition
-
----
-
-### 🌲 TreeARium
-
-Next-generation forest resource measurement solution using AR and AI.
-
-- ARCore
-- Android
-- YOLO
-- TensorFlow Lite
-
-🏆 ICT Smart Device Competition Award Winner
+> ## 🚌 LightBus
+>
+> AI-powered bus guidance service for visually impaired people.
+>
+> **Tech**
+> - Azure AI
+> - YOLOv11 / YOLOv12
+> - OCR
+> - Speech-to-Text
+> - Text-to-Speech
+> - FastAPI
+> - React
+>
+> 🏆 Ranked #1 in SeSAC Microsoft AI Engineer Project Competition
 
 ---
 
-### 🔬 Research Interests
+> ## 🌲 TreeARium
+>
+> Next-generation forest resource measurement solution using AR and AI.
+>
+> **Tech**
+> - ARCore
+> - Android
+> - YOLO
+> - TensorFlow Lite
+>
+> 🏆 ICT Smart Device Competition Award Winner
 
-- Computer Vision
-- Diffusion Models
-- Personalized Image Generation
-- Vision-Language Models
-- Responsible AI
-- Azure AI Services
+---
+
+## 🔬 Research Interests
+
+> - Computer Vision
+> - Diffusion Models
+> - Personalized Image Generation
+> - Vision-Language Models
+> - Responsible AI
+> - Azure AI Services
 
 ---
 
